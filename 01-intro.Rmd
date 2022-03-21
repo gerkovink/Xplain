@@ -1,0 +1,9 @@
+# Introduction
+
+## What is machine learning
+
+## The statistics behind it
+
+## What about artificial intelligence
+
+## Some challenges
